@@ -29,7 +29,6 @@ End the program.
 
 ## PROGRAM
 ```
-python
 #Developed by:harini.m.d
 #Registration no:22001980
 import sys
